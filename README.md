@@ -1,15 +1,3 @@
-![IMG_4910](https://github.com/Alfredredbird/alfred/assets/105014217/04eb051d-15c3-4a32-b10b-dcdb12fee881)
-
-
-
-
-# Overview
-Alfred has a simple to use UI and is realy straight foward. :D
-
-![Screen Shot 2023-08-22 at 4 18 32 PM](https://github.com/Alfredredbird/alfred/assets/105014217/7ae6a993-af2e-4845-b386-43c8433f583d)
-
-# Installation
-The Requirments Will Automaticly Be Installed.
 
 
     git clone https://github.com/alfredredbird/alfred
@@ -94,9 +82,3 @@ Still Need Help? Contact Below :D
 </table>
 
 
-# contact
-
-- Youtube : https://youtube.com/@alfredredbird
-- Twitter: @alfredredbird1
-- Twitch: https://twitch.tv/alfredredbird
-- Email : j2montanari@gmail.com
